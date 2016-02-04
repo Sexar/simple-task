@@ -1,0 +1,30 @@
+
+/* Full screen */
+html,
+body,
+.app-wrapper{
+    height: 100%;
+    width: 100%;
+}
+
+/* App wrapper */
+.app-wrapper{
+    overflow: hidden;
+    position: relative;
+    z-index: 0;
+}
+
+/* App navbar */
+.app-navbar{
+    background: #2E3C54;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 250px;
+}
+
+/* App main */
+.app-main{
+
+}
